@@ -1,0 +1,20 @@
+/*
+Links to event planner/MP/BP in Iprofile.
+*/
+.iprofile-tabs
+{
+    float: right;
+}
+.iprofile-tabs ul li
+{
+    float:left;
+    font-size: 11px;
+}
+.iprofile-tabs ul li:after
+{
+    content: '|';
+    margin-left: 3px: 
+    
+}
+
+

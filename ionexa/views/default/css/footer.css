@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* Author: Team FCL
+ * URL: http://www.fclanka.com
+ */ 
+#footer {
+  min-height: 60px;
+}
+#footer > ul#footer-menu {
+  background: url("../images/footer-menu-arrow.jpg") no-repeat scroll left top transparent;
+  float: left;
+  height: 34px;
+  padding-left: 42px;
+}
+#footer-menu > li {
+  float: left;
+  font-size: 11px;
+  line-height: 31px;
+  margin-right: 15px;
+}
+#footer-menu a {
+  /*border-bottom: 1px dashed #D0D0D0;*/
+  color: #878787;
+  text-decoration: none;
+}
+#footer-menu a:hover {
+  border-bottom: 1px solid #7975e4;
+  color: #7975e4;
+  text-decoration: none;
+}
+.footer-credit {
+  color: #878787;
+  float: right;
+  font-size: 10px;
+  line-height: 18px;
+  margin-top: 8px;
+  text-align: right;
+  width: 370px;
+}
+.copyright {
+  clear: both;
+  display: block;
+}
+.credit {
+  background: url("../images/four-corners.png") no-repeat scroll 5px 0 transparent;
+  color: #444444;
+  font-size: 10px;
+  padding: 2px 0 6px 26px;
+}
+.credit:hover {
+    background: url("../images/four-corners.png") no-repeat scroll 5px 0 transparent;
+    padding: 2px 0 6px 26px;
+	font-size: 10px;
+	color: #C00;
+}

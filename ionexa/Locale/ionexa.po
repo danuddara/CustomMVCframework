@@ -1,0 +1,1134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ionexa\n"
+"POT-Creation-Date: 2013-08-27 17:32+0530\n"
+"PO-Revision-Date: 2013-08-27 17:32+0530\n"
+"Last-Translator: \n"
+"Language-Team: ionexa <danuddara@live.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\ionexa\\views\\default\n"
+
+#: C:\wamp\www\ionexa\views\default/messageAlert.tpl.php:8
+msgid "Close"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/includes/menu.php:12
+msgid "Information Architecture for Next Generation"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/includes/menu.php:12
+msgid "no_records_found"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/includes/menu.php:39
+msgid "Forgot Your Password"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/includes/menu.php:42
+msgid "Log Out"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/includes/menu.php:51
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile.tpl.php:36
+msgid "People"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/includes/menu.php:52
+msgid "Beautiful People"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/includes/menu.php:53
+msgid "Marriage Proposals"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/includes/menu.php:54
+msgid "Friends Corner"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:8
+msgid "Sign up."
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:9
+msgid "It is free."
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:12
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile.tpl.php:53
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:51
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:59
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:66
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:21
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:183
+msgid "First Name"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:15
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:62
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:75
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:24
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:186
+msgid "Last Name"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:18
+msgid "E-Mail"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:21
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:28
+msgid "Re-enter E-Mail"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:48
+msgid "Female"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:51
+msgid "Male"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:73
+msgid "january"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:74
+msgid "february"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:75
+msgid "march"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:76
+msgid "april"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:77
+msgid "may"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:78
+msgid "june"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:80
+msgid "august"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:81
+msgid "september"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:82
+msgid "october"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:83
+msgid "november"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/index/index.tpl.php:84
+msgid "december"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile.tpl.php:37
+msgid "Affiliation"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile.tpl.php:57
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_edit.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_edit.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:3
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:59
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:3
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:69
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:89
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:33
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile.tpl.php:56
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:56
+msgid "Type"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile.tpl.php:63
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_edit.tpl.php:82
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_field.tpl.php:14
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:59
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_field.tpl.php:3
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:65
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:80
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:13
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit_field.tpl.php:3
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile.tpl.php:61
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:71
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:40
+msgid "Name"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile.tpl.php:67
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_edit.tpl.php:86
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_field.tpl.php:18
+msgid "Description"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_edit.tpl.php:39
+msgid "Edit Affiliation"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_field.tpl.php:6
+msgid "Religious"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_field.tpl.php:7
+msgid "Political"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_field.tpl.php:8
+msgid "Clubs"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_field.tpl.php:9
+msgid "Societies"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/affiliationinformation_iprofile_field.tpl.php:10
+msgid "Organizations"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:6
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:8
+msgid "PUBLIC"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:6
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:8
+msgid "FAMILY"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:6
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:8
+msgid "FRIEND"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:6
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:8
+msgid "OEO"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile.tpl.php:45
+msgid "Basic Information"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile.tpl.php:77
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:76
+msgid "Country you live"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:42
+msgid "Edit Basic Information"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/basicinformation_iprofile_edit.tpl.php:65
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:132
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:73
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:193
+msgid "Gender"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile.tpl.php:37
+msgid "Books"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile.tpl.php:63
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_edit.tpl.php:81
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:18
+msgid "Author"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile.tpl.php:68
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_edit.tpl.php:86
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:23
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:59
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:3
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:73
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:102
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:41
+msgid "Title"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:7
+msgid "Academic and Professional"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:8
+msgid "Arts, Photography and Design"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:9
+msgid "Award Winning"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:10
+msgid "Biographies &amp; Autobiographies"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:11
+msgid "Business, Investing and Management"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:12
+msgid "Comics &amp; Graphic Novels"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/bookinformation_iprofile_field.tpl.php:13
+msgid "Cooking, Food &amp; Wine"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:35
+msgid "Travel Destinations"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:68
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:86
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_field.tpl.php:24
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:135
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:67
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:11
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:72
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:165
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:360
+msgid "Country"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:84
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:102
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_field.tpl.php:37
+msgid "City"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile.tpl.php:87
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:110
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_field.tpl.php:44
+msgid "GeoTag"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/destinationsinformation_iprofile_edit.tpl.php:36
+msgid "Edit Travel Destinations"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:37
+msgid "Education"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile.tpl.php:68
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:83
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:16
+msgid "Graduated On"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:37
+msgid "Edit Education"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "January"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "February"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "March"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "April"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "May"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "June"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "July"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "August"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "September"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "October"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "November"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_edit.tpl.php:100
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:85
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:43
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:78
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:254
+msgid "December"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:6
+msgid "High School"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:7
+msgid "University"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:8
+msgid "College"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/educationinformation_iprofile_field.tpl.php:9
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:77
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:21
+msgid "Other"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:65
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:82
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:27
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:188
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:130
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:145
+msgid "Birthday"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:77
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:146
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:81
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:201
+msgid "Relationship"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:80
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:150
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:204
+msgid "Sister"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:81
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:151
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:205
+msgid "Brother"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:82
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:152
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:206
+msgid "Mother"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:83
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:153
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:207
+msgid "Father"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:108
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:178
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:232
+msgid "Wife"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile.tpl.php:109
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:179
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_field.tpl.php:233
+msgid "Husband"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:21
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:21
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit.tpl.php:21
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:22
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:21
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:18
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:20
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:21
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:21
+msgid "Edit"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/familyinformation_iprofile_edit.tpl.php:38
+msgid "Edit Family"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile.tpl.php:36
+msgid "Food"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile.tpl.php:55
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:56
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_field.tpl.php:3
+msgid "Dish"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile.tpl.php:59
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_field.tpl.php:7
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit_field.tpl.php:6
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:61
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:62
+msgid "Category"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:23
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit.tpl.php:23
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:24
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:23
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:20
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:22
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:23
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:23
+msgid "Privacy"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:30
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit.tpl.php:30
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:31
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:30
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:27
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:29
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:30
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/testSection_iprofile_edit.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:30
+msgid "Delete"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:30
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/hobbiesinformation_iprofile_edit.tpl.php:30
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:31
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:30
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:27
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:29
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:30
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/testSection_iprofile_edit.tpl.php:10
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:30
+msgid "Add"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/food_iprofile_edit.tpl.php:37
+msgid "Edit Food"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/iprofile.tpl.php:5
+msgid "Home"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/iprofile.tpl.php:6
+msgid "iProfile"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/iprofile.tpl.php:14
+#, php-format
+msgid ""
+"Please read the %s Privacy Settings %s  instructions before filling out "
+"information</span></div>"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:37
+msgid "Entertainment"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:64
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:65
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:10
+msgid "Feature Film"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:65
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:66
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:11
+msgid "TV Movie"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:66
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:67
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:12
+msgid "TV Series"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:67
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:68
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:13
+msgid "TV Episode"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:68
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:69
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:14
+msgid "TV Special"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:69
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:70
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:15
+msgid "Mini-Series"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:70
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:71
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:16
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:43
+msgid "Documentary"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:71
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:72
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:17
+msgid "Video Game"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:72
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:73
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:18
+msgid "Short Film"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:73
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:74
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:19
+msgid "Video"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:74
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:75
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:20
+msgid "Stage Plays"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile.tpl.php:86
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:88
+msgid "Genre"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_edit.tpl.php:38
+msgid "Edit Entertainment"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:37
+msgid "Action"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:38
+msgid "Adventure"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:39
+msgid "Animation"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:40
+msgid "Biography"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:41
+msgid "Comedy"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:42
+msgid "Crime"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:44
+msgid "Drama"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:45
+msgid "Family"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:46
+msgid "Fantasy"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:47
+msgid "Film-Noir"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:48
+msgid "Game-Show"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:49
+msgid "History"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:50
+msgid "Horror"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:51
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:37
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:35
+msgid "Music"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:52
+msgid "Musical"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:53
+msgid "Mystery"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:54
+msgid "News"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:55
+msgid "Reality-TV"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:56
+msgid "Romance"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:57
+msgid "Sci-Fi"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile.tpl.php:55
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:58
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_field.tpl.php:3
+msgid "Sport"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:59
+msgid "Talk-Show"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:60
+msgid "Thriller"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:61
+msgid "War"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/moviessptv_iprofile_field.tpl.php:62
+msgid "Western"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:61
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:59
+msgid "Categories"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile.tpl.php:76
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:105
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:44
+msgid "Artist"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:37
+msgid "Edit Music"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:64
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:8
+msgid "Alternate"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:65
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:9
+msgid "Blues"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:66
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:10
+msgid "Classical"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:68
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:12
+msgid "Dance"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:69
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:13
+msgid "Folk"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:70
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:14
+msgid "Funk"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:71
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:15
+msgid "Hip Hop"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:72
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:16
+msgid "Jazz"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:73
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:17
+msgid "Pop"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:74
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:18
+msgid "R&B"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:75
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:19
+msgid "Soul"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_edit.tpl.php:76
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:20
+msgid "Rock"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/musicandbandinformation_iprofile_field.tpl.php:37
+msgid "Band"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:39
+msgid "Personal Information"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:82
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:87
+msgid "State/City"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:111
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:121
+msgid "Home Country"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:140
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:196
+msgid "Relationship Status"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:163
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:219
+msgid "Height"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile.tpl.php:169
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:226
+msgid "Weight"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personalinformation_iprofile_edit.tpl.php:35
+msgid "Edit Personal Information"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:36
+msgid "Edit People"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:8
+msgid "Actor"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:11
+msgid "Singer"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:14
+msgid "Cook"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:17
+msgid "Comedian"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:20
+msgid "TV Personality"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:23
+msgid "Radio Personality"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:26
+msgid "Most Inspiring"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:29
+msgid "Sportsman"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:32
+msgid "Athlete"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_edit.tpl.php:60
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/personinformation_iprofile_field.tpl.php:35
+msgid "Businessman"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile.tpl.php:35
+msgid "Sports"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile.tpl.php:59
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:62
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_field.tpl.php:7
+msgid "Team"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/sportteaminformation_iprofile_edit.tpl.php:37
+msgid "Edit Sports"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:35
+msgid "Work"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:57
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:62
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:2
+msgid "Employer"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:61
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:66
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:6
+msgid "Designation"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:64
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:69
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:9
+msgid "From"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile.tpl.php:68
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:116
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_field.tpl.php:184
+msgid "To"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/iprofile/workinformation_iprofile_edit.tpl.php:37
+msgid "Edit Work"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/signin/passwordrecovery.tpl.php:2
+msgid "Forgot Password?"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/signin/passwordrecovery.tpl.php:3
+#, php-format
+msgid ""
+"Don't worry we'll help you to get back into your account,%s simply enter the "
+"email and submit the form below.%s Follow the instructions given in your "
+"mail."
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/signin/passwordrecovery.tpl.php:7
+#: C:\wamp\www\ionexa\views\default/templates/signin/resetpassword.tpl.php:13
+#: C:\wamp\www\ionexa\views\default/templates/verify/verificationemail.tpl.php:17
+msgid "Submit"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/signin/resetpassword.tpl.php:8
+#: C:\wamp\www\ionexa\views\default/templates/verify/verificationemail.tpl.php:12
+msgid "Reset Password?"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/signin/resetpassword.tpl.php:11
+#: C:\wamp\www\ionexa\views\default/templates/verify/verificationemail.tpl.php:15
+#: C:\wamp\www\ionexa\views\default/templates/verify/verificationemail.tpl.php:16
+msgid "New Password"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/signin/resetpassword.tpl.php:12
+msgid "Confirm Password"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/verify/verificationemail.tpl.php:4
+msgid "Your account Has been Activated successfully!."
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/verify/verificationemail.tpl.php:5
+msgid "Please Enter your Password for Our Account"
+msgstr ""
+
+#: C:\wamp\www\ionexa\views\default/templates/verify/verificationemail.tpl.php:23
+msgid "Sorry!! We could not activate your account!."
+msgstr ""

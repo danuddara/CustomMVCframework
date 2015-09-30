@@ -1,0 +1,51 @@
+/* panel */
+.panel, .panelcollapsed {
+  float: left;
+  width: 100%;
+}
+
+/* panel heading */
+.panel h2, .panelcollapsed h2 {
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+/* panel heading on rollover */
+.panel h2:hover, .panelcollapsed h2:hover {
+  background-color: #FFFFFF;
+}
+
+/* heading of a collapsed panel */
+.panelcollapsed h2 
+{
+}
+
+/* panel content - do not set borders or paddings */
+.panelcontent {
+  /*background: none repeat scroll 0 0 #E4E2FF;*/
+  float: left;
+  margin-top: 15px;
+  overflow: hidden;
+  width: 100%;
+}
+/* collapsed panel content */
+.panelcollapsed .panelcontent { display: none; }
+
+h2 span.title {
+  color: #254EA2;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px 12px 5px 30px;
+}
+.panel h2 span.title {
+  background: url("../images/collapse-expand-icons.png") no-repeat scroll 9px 8px #E4E2FF;
+  float: left;
+}
+.panelcollapsed h2 span.title {
+  background: url("../images/collapse-expand-icons.png") no-repeat scroll 9px -42px #E4E2FF;
+  float: left;
+}
+.panel h2 a, .panelcollapsed h2 a {
+  color: #6882E8;
+  font-size: 11px;
+}

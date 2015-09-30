@@ -1,0 +1,190 @@
+@charset "utf-8";
+/* 
+ * URL: http://www.fclanka.com
+ */
+ 
+ 
+@import "header.css";
+@import "content.css";
+@import "footer.css";
+@import url('http://fonts.googleapis.com/css?family=Raleway:400,700,600|Open+Sans');
+
+
+/* 
+ * CSS RESET CODE 
+ * WARNING : DO NOT CHANGE
+ */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img {
+	border: 0;
+}
+address, caption, cite, code, dfn, em, strong, th, var, optgroup {
+	font-style: inherit;
+}
+del, ins {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+caption, th {
+	text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+}
+q:before, q:after {
+	content: '';
+}
+abbr, acronym {
+	border: 0;
+	font-variant: normal;
+}
+legend {
+	color: #000;
+}
+input, button, textarea, select, optgroup, option {
+	font-family: inherit;
+	font-size: inherit;
+	font-style: inherit;
+	font-weight: inherit;
+}
+input, button, textarea, select {
+font-size:100%;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+/* remove doted line from firefox */
+a:active, a {
+	outline: none;
+}
+a:focus {
+	-moz-outline-style: none;
+}
+/* End of CSS Rest5 Code */
+
+
+html {
+}
+body {
+	font-family: 'Open sans';
+}
+#wrapper{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background: url(../images/footer-bg.jpg) repeat-x bottom #e4e2ff;
+	min-height: 500px;
+}
+#container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.clear 
+    { 
+    clear:both; 
+} 
+
+.right 
+    { 
+    float: right; 
+} 
+
+.left 
+    { 
+    float: left; 
+}
+h1 
+    { 
+    font-size: 2.2em; 
+} 
+
+h2 
+    { 
+    font-size: 2.0em;     
+} 
+
+h3 
+    { 
+    font-size: 1.8em; 
+} 
+
+h4 
+    { 
+    font-size: 1.6em;     
+} 
+
+h5 
+    { 
+    font-size: 1.4em;     
+} 
+
+p 
+    { 
+    font-size: 1.2em;     
+}
+input {
+	border: 1px solid #B5B2FF;
+	color: #666666;
+	display: inline;
+	font-size: 11px;
+	min-height: 19px;
+	line-height: 160%;
+	width: auto;
+}
+input.styled{
+	width: 96%;
+}
+select {
+  border: 1px solid #B5B2FF;
+  color: #666666;
+  display: inline;
+  font-size: 11px;
+  height: 28px;
+  line-height: 160%;
+  margin-bottom: 2%;
+  padding: 1.6% 2%;
+}
+/*added by Pasindu 19/06/2013*/
+input[type="submit"]
+{
+    line-height: 0;
+    padding:3px;
+    top:0;
+    height: auto;
+    border: 1px solid #D5D5D5;
+}
+input[type="submit"]:hover
+{
+    line-height: 0;
+    padding:3px;
+    top:0;
+    height: auto;
+    background-color: #666666;
+    color:#fff;
+    cursor: pointer;
+}
+
+a.button > input[type='submit']:hover
+{
+   
+    color: #FFF;
+    display: inline;
+    font-size: 12px;
+    line-height: 160%;
+    height: 30px;
+    background-color:inherit;
+    padding: 3px 22px 6px 15px;
+    
+}
+/*end*/

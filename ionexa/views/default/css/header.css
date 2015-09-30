@@ -1,0 +1,236 @@
+@charset "utf-8";
+/* Author: Team FCL
+ * URL: http://www.fclanka.com
+ */ 
+#header {
+	width: 100%;
+	height: 153px;
+}
+.branding {
+  height: 87px;
+  margin: 19px 0 0 26px;
+  min-width: 389px;
+  width: 46%;
+}
+.branding h1 {
+  color: #254EA2;
+  float: left;
+  font-family: 'Raleway';
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 34px;
+  margin-top: 12px;
+  text-transform: uppercase;
+  width: 73%;
+}
+.branding h5 {
+  color: #5E7ADD;
+  float: left;
+  font-family: 'Raleway';
+  font-size: 15px;
+  font-weight: 300;
+  text-transform: capitalize;
+  white-space: nowrap;
+  width: 75%;
+}
+#logo-container {
+  display: block;
+  float: left;
+  height: 70px;
+  margin-right: 8px;
+  width: 60px;
+}
+.header-right-section {
+  margin-top: 13px;
+  min-width: 202px;
+  text-align: right;
+  width:45%;
+}
+.lang-selct-container .label {
+  background: url("../images/language-arrow.png") no-repeat scroll right center transparent;
+  display: inline-block;
+  float: none;
+  padding-right: 26px;
+}
+.lang-selct-container {
+  width: 100%;
+}
+.lang-selct-container .language {
+ /* border-bottom: 1px dashed #D2B9E3;*/
+  display: inline-block;
+  text-align: center;
+  width: 71px;
+}
+.lang-selct-container span {
+  display: inline-block;
+  font-size: 11px;
+  line-height: 20px;
+  margin: 0;
+  padding: 0;
+   color: #254ea2;
+}
+.signin-container {
+  margin-top: 6px;
+  width: 100%;
+}
+.signin-container input {
+  border: 1px solid #B5B2FF;
+  color: #B5B2FF;
+  display: inline;
+  font-size: 11px;
+  margin: 0 5px 0 0;
+  padding: 4px 11px;
+  width: 108px;
+  height: 19px;
+}
+a.button {
+  background: url("../images/button-start.png") no-repeat scroll left top transparent;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  height: 27px;
+  line-height: 22px;
+  padding: 0 0 5px 8px;
+  text-decoration: none;
+  width: auto;
+}
+.button > span , .button > input[type='submit']{
+ /* background: url("../images/button-bg.png") no-repeat scroll right top transparent;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 3px 22px 6px 15px;
+  width: auto;
+  cursor: pointer;
+  text-indent: -9999;
+  color:#FFF;*/
+  
+  background: url("../images/button-bg.png") no-repeat scroll right top transparent;
+    border: medium none;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    height: 30px;
+    padding: 3px 22px 6px 15px;
+    width: auto;
+}
+.forgot-pass, .forgot-pass a {
+  color: #254EA2;
+  font-size: 11px;
+  width: 100%;
+}
+.forgot-pass span {
+  margin-left: 19px;
+}
+.checkbox {
+  background: url("../images/check-box.png") no-repeat scroll 0 0 transparent;
+  clear: left;
+  display: inline-block;
+  height: 18px;
+  margin-right: 1px;
+  padding: 0 5px 0 0;
+  width: 10px;
+}
+#header > div#nav {
+  background: none repeat scroll 0 0 #F6FFE1;
+  border: 1px solid #CBE1A3;
+  border-radius: 5px 5px 5px 5px;
+  box-shadow: 0 3px 4px -2px #D2BBFF;
+  height: auto;
+  text-align: center;
+  width: 960px;
+}
+#nav ul {
+  margin: 0 auto;
+  width: auto;
+}
+#nav ul li {
+  display: inline-block;
+  float: left;
+}
+#nav ul li a {
+  background-image: url("../images/icons.png");
+  background-repeat: no-repeat;
+  display: block;
+  padding: 9px 0 10px 16px;
+  text-decoration: none;
+  
+  
+}
+#nav ul li a:hover {
+  background-color: #ADCC53;
+  border-radius: 5px 5px 5px 5px;
+}
+#nav ul li a:hover span{
+	color: #ffffff;
+}
+.people {
+  background-position: 26px -88px;
+}
+a.people:hover{
+  background-position: -174px -88px;
+}
+.investment {
+  background-position: 15px -39px;
+}
+a.investment:hover{
+  background-position: -185px -39px;
+}
+.travel {
+  background-position: 26px -280px;
+}
+a.travel:hover{
+  background-position: -174px -280px;
+}
+.real-estate {
+  background-position: 12px -185px;
+}
+a.real-estate:hover{
+  background-position: -188px -185px;
+}
+.food {
+  background-position: 30px 7px;
+}
+a.food:hover{
+  background-position: -170px 7px;
+}
+.products {
+  background-position: 18px -135px;
+}
+a.products:hover{
+  background-position: -182px -135px;
+}
+.services {
+  background-position: 18px -231px;
+}
+a.services:hover{
+  background-position: -182px -231px;
+}
+#nav li a span {
+  color: #616161;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 23px;
+  margin-left: 35px;
+}
+ol.multiple-records > li {
+  /*background: url("../images/number-bg.png") no-repeat scroll 8px 14px transparent;*/
+  color: #FFFFFF;
+  float: left;
+  font-size: 10px;
+  font-weight: bold;
+  /*list-style: decimal inside none;*/
+  margin-bottom: 10px;
+  padding: 18px 0 0 11px;
+  text-align: center;
+  width: 100%;
+}
+
+.multiple-records li ul {
+  float: right;
+  margin: -14px 0 0;
+  padding: 0;
+  width: 97%;
+}

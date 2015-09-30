@@ -1,0 +1,55 @@
+<?php
+
+/*
+ * @project = "iOnexa";
+ * @author = "Four Corners Lanka(Pvt) Ltd";
+ * @version = 0.1;
+ * @date  = "03/06/2013";
+ * 
+ * The index page of ionexa framework.
+ * /***TESTING PHASE**
+ */
+require 'registry/registry.php';
+
+$registry = Registry::getRegistry();
+
+/*print_r($db); 
+
+$table = 'genres';
+$values = array(
+               ":id"=>'10',
+               ":Name"=>'Test',
+               ":Description"=>'Test',
+               );
+
+echo $db->insertRecords($table,$values);
+
+
+$table = 'genres';
+$values = array(
+               "Name"=>'Testninenow',
+               "Description"=>'Testing',
+               "id"=>'9',
+               );
+
+echo $db->updateRecords($table,$values);*/
+/*load core objects
+ */
+$registry->storeCoreObjects();
+/* setting the view main template settings
+ *  the default is the folder name and the skin is the key
+ */
+$registry->storeSetting( 'default', 'skin' ); 
+
+
+$db = $registry->getObject('db');  //get DB connection
+$rows;
+$rows=$db->select("select Name,Description from genres ");
+
+$template = $registry->getObject('template'); // get template from the registery
+$template->rows = $rows; // set template variables.
+$template->loadtemplatebit('main.tpl.php');//load the template bit
+//include 'views/default/main.tpl.php';
+
+echo realpath(dirname(__FILE__));
+?>
