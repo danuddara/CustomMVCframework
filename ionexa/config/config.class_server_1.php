@@ -42,9 +42,9 @@ class Config
     {
         
         $this->host = "ionexadb.db.11462754.hostedresource.com";
-        $this->username = "ionexadb";
-        $this->password = "FC!H0s1in@";
-        $this->db = "ionexadb";
+        $this->username = "user";
+        $this->password = "pass";
+        $this->db = "db";
     }
     
     
