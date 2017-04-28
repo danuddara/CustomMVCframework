@@ -42,9 +42,9 @@ class Config
     {
         
         $this->host = "Localhost";
-        $this->username = "nchost5";
-        $this->password = "FC!H0s1in@";
-        $this->db = "nchost5_ionexadb";
+        $this->username = "user";
+        $this->password = "pass";
+        $this->db = "db";
     }
     
     
